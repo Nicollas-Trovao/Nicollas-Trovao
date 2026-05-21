@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Full Stack em formacao
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicollas-trovao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-trov%C3%A3o-dos-santos-491306284)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nictr)
 
 </div>
@@ -80,8 +80,8 @@ Exercicios e pequenos sistemas para evoluir em orientacao a objetos, estruturas 
 
 Estou aberto a trocar ideias, colaborar em projetos e aprender junto com outras pessoas da area.
 
-**Email:** seu_email@exemplo.com  
-**LinkedIn:** [Nicollas Trovao](https://linkedin.com/in/nicollas-trovao)  
+**Email:** nictrova200o@gmail.com  
+**LinkedIn:** [Nicollas Trovao](https://www.linkedin.com/in/nicollas-trov%C3%A3o-dos-santos-491306284)  
 **GitHub:** [@nictr](https://github.com/nictr)
 
 ---
