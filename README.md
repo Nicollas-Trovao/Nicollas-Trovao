@@ -5,6 +5,7 @@
 ### Desenvolvedor Full Stack em formacao
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-trov%C3%A3o-dos-santos-491306284)
+[![Email](https://img.shields.io/badge/Email-nictrova200o%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nictrova200o@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nictr)
 
 `Java` `C/C++` `JavaScript` `PHP` `HTML` `CSS` `MySQL`
@@ -81,9 +82,10 @@ Objetivo:      evoluir como desenvolvedor full stack
 
 ## Contato
 
-Estou aberto a trocar ideias, colaborar em projetos e aprender junto com outras pessoas da area.
+Meu principal meio de contato e o email. Estou aberto a trocar ideias, colaborar em projetos e aprender junto com outras pessoas da area.
 
-**Email:** nictrova200o@gmail.com  
+### Email principal: [nictrova200o@gmail.com](mailto:nictrova200o@gmail.com)
+
 **LinkedIn:** [Nicollas Trovao](https://www.linkedin.com/in/nicollas-trov%C3%A3o-dos-santos-491306284)  
 **GitHub:** [@nictr](https://github.com/nictr)
 
