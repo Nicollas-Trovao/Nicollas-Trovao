@@ -1,11 +1,13 @@
-# Oi, eu sou o Nicollas Trovao
-
 <div align="center">
+
+# Oi, eu sou o Nicollas Trovao
 
 ### Desenvolvedor Full Stack em formacao
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollas-trov%C3%A3o-dos-santos-491306284)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nictr)
+
+`Java` `C/C++` `JavaScript` `PHP` `HTML` `CSS` `MySQL`
 
 </div>
 
@@ -14,6 +16,16 @@
 ## Sobre mim
 
 Gosto de tecnologia, aprendizado constante e projetos que transformam ideias em algo utilizavel. Tenho interesse em desenvolvimento full stack e estou sempre praticando para evoluir em logica, interfaces, banco de dados e boas praticas de programacao.
+
+<div align="center">
+
+| Area | O que estou desenvolvendo |
+| --- | --- |
+| Backend | logica, estruturas, arquivos, banco de dados e organizacao de codigo |
+| Frontend | interfaces responsivas, HTML, CSS e JavaScript |
+| Fundamentos | programacao em C, Java, algoritmos e boas praticas |
+
+</div>
 
 ---
 
@@ -41,30 +53,15 @@ Gosto de tecnologia, aprendizado constante e projetos que transformam ideias em 
 
 > Atualize esta secao com os repositorios que voce mais quer mostrar.
 
-### Sistema de Biblioteca
-
-Projeto em C com interface grafica para cadastro, consulta e organizacao de livros.
-
-- Tecnologias: C, GTK, arquivos
-- Repositorio: em breve
-
-### Projeto Web
-
-Aplicacao web para praticar interfaces, logica de frontend e integracao com backend.
-
-- Tecnologias: HTML, CSS, JavaScript, PHP
-- Repositorio: em breve
-
-### Estudos em Java
-
-Exercicios e pequenos sistemas para evoluir em orientacao a objetos, estruturas de dados e boas praticas.
-
-- Tecnologias: Java
-- Repositorio: em breve
+| Projeto | Descricao | Tecnologias |
+| --- | --- | --- |
+| Sistema de Biblioteca | Cadastro, consulta e organizacao de livros com interface grafica. | C, GTK, arquivos |
+| Projeto Web | Aplicacao para praticar interfaces, logica de frontend e integracao com backend. | HTML, CSS, JavaScript, PHP |
+| Estudos em Java | Exercicios e pequenos sistemas para evoluir em orientacao a objetos. | Java |
 
 ---
 
-## Em evolucao
+## Agora
 
 <div align="center">
 
@@ -72,9 +69,13 @@ Exercicios e pequenos sistemas para evoluir em orientacao a objetos, estruturas 
 ![Estudando](https://img.shields.io/badge/Estudando-Java%20%7C%20C%20%7C%20Web-2EA44F?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Aprendendo%20sempre-F7DF1E?style=for-the-badge&labelColor=181717&color=F7DF1E)
 
-Atualmente praticando desenvolvimento full stack, logica de programacao, interfaces e organizacao de projetos.
-
 </div>
+
+```txt
+Estudando:     Java, C, desenvolvimento web e banco de dados
+Praticando:    projetos completos, interfaces e organizacao de codigo
+Objetivo:      evoluir como desenvolvedor full stack
+```
 
 ---
 
@@ -89,6 +90,8 @@ Estou aberto a trocar ideias, colaborar em projetos e aprender junto com outras 
 ---
 
 <div align="center">
+
+---
 
 Obrigado por visitar meu perfil.
 
