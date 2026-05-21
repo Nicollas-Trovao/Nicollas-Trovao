@@ -64,13 +64,15 @@ Exercicios e pequenos sistemas para evoluir em orientacao a objetos, estruturas 
 
 ---
 
-## Estatisticas
+## Em evolucao
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nictr&show_icons=true&theme=tokyonight&hide_border=true)
+![Foco](https://img.shields.io/badge/Foco-Full%20Stack-0A66C2?style=for-the-badge)
+![Estudando](https://img.shields.io/badge/Estudando-Java%20%7C%20C%20%7C%20Web-2EA44F?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Aprendendo%20sempre-F7DF1E?style=for-the-badge&labelColor=181717&color=F7DF1E)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nictr&layout=compact&theme=tokyonight&hide_border=true)
+Atualmente praticando desenvolvimento full stack, logica de programacao, interfaces e organizacao de projetos.
 
 </div>
 
