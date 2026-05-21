@@ -1,6 +1,6 @@
 <div align="center">
 
-# Oi, eu sou o Nicollas Trovao
+# Oi, eu sou o Nicollas Trovão
 
 ### Desenvolvedor Full Stack em formacao
 
